@@ -4,7 +4,7 @@
  *      Author: maximiliano
  */
 #include "kernel.h"
-
+/
 
 
 void arrancarSelect()
